@@ -1,0 +1,20 @@
+.heading{
+font-size: 20px;
+width: 100%;
+margin: 0px;
+}
+
+.note{
+    color: black;
+    font-size: 15px;
+}
+
+canvas{
+    border: 5px dashed silver;
+    border-radius: 60px;
+}
+
+#sName{
+    font-size: 25px;
+    width: fit-content;
+}
